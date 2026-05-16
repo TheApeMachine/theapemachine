@@ -1,1 +1,1 @@
-![theapemachine](https://gh-stats.com/api/theapemachine?theme=onyx&grade.max_tags=10)
+![theapemachine](https://gh-stats.com/api/theapemachine?theme=onyx&widgets=grade%2Cimpact%2Cstreaks%2Ccollaborators%2Cfocus%2Clanguages%2Cachievements%2Cname&grade.max_tags=10&languages.max_languages=10&collaborators.bar_color=%23facc15&streaks.color=%234ade80&impact.line_color=%23a78bfa)
